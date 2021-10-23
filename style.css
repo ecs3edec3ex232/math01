@@ -1,0 +1,16 @@
+body 
+    {
+        background-color:deeppink ;
+        }
+
+        .username, .password {
+            background: white;
+            padding: 10px;
+            float: none;
+            border-radius: 15px;
+            font-size: 25px;
+        }
+
+    #login {
+        font-size: 25px;
+    }
